@@ -113,16 +113,26 @@ Strong problem-solving mindset developed through hackathons, certifications, and
 
 ---
 
-## 🏆 Achievements  
-- 🥈 2nd Prize — Hackathon (Sahayak Project)  
-- 🧩 Participated in multiple hackathons  
-- 📜 Certifications:  
-  - Java, Python, DBMS, RDBMS  
-  - Deloitte  
-  - PERL  
-  - Generative AI  
-  - Salesforce  
-- 🎉 Active in tech fests & coding competitions  
+## 🏆 Achievements & Certifications
+
+### 📜 Professional Certifications
+| Organization | Certificate | Verification |
+| :--- | :--- | :--- |
+| **Microsoft** | AI SKILLS PASSPORT | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/AI%20Skills%20Passport.pdf) |
+| **Salesforce** | SALESFORCE AGENTFORCE SPECIALIST | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/Salesforce%20AgentForce%20Specialist.pdf) |
+| **Spoken Tutorial** | RDBMS | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/RDMS.pdf) |
+| **Spoken Tutorial** | PERL | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/PERL.pdf) |
+| **Deloitte** | CYBER JOB SIMULATION | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/CYBER%20JOB%20SIMULATION.pdf) |
+| **Hexart.in** | AI FOUNDATION | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/HEXART.AI%20AI%20FOUNDATION.pdf) |
+| **Infosys** | CYBER SECURITY | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/Infosys%20Cyber%20Security.pdf) |
+| **Infosys** | NETWORK FUNDAMENTALS | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/Infosys%20Network%20Fundamentals.pdf) |
+| **MongoDB** | MONGODB SKILLS | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/MongoDB%20Skill.pdf) |
+| **SkillUp** | GENERATIVE AI FOR BEGINNERS | [View Certificate](https://github.com/Shahnawaz9493/Shahnawaz9493/blob/main/SkillUp.pdf) |
+
+### 🥇 Awards & Recognition
+* **🥈 2nd Prize** — Hackathon (For **Sahayak** AI Health Chatbot)
+* **🧩 Active Participant** — Multiple National Level Hackathons
+* **🎉 Tech Fest Lead** — Organized and participated in college coding competitions
 ---
 
 ## 🌟 Motto  
