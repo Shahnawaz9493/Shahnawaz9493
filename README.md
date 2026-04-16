@@ -125,6 +125,17 @@ Strong problem-solving mindset developed through hackathons, certifications, and
 
 ---
 
+🖐️ **Gesture-Controlled Desktop Interface**
+- Developed a real-time gesture-based system to control desktop functions using hand movements
+- Implemented hand tracking using MediaPipe and OpenCV
+- Enabled cursor movement, click, drag, volume control, and media playback
+- Designed smooth interaction using interpolation and gesture recognition logic
+- Built a custom HUD for real-time feedback and improved user experience
+
+**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI, Pycaw, NumPy
+
+---
+
 ## 🚧 Ongoing Project  
 
 ### 🎙️ Voice Command Assistant  
